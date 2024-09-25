@@ -14,6 +14,18 @@
 
 <img src="./images/proxmox.png" alt="Proxmox" width="5%" height=""/> Proxmox
 
+# Repos
+
+- [Dotfiles](https://github.com/MichaelHeaton/dotfiles) - My personal configuration files on macOS
+- [Quick Reference Guide](https://github.com/MichaelHeaton/Quick-Reference-Guide) - Command Reference for various tools and technologies
+- [Homelab](https://github.com/MichaelHeaton/HomeLab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
+- [Scripts]() - Coming soon
+
+<!--
+# 🙋 Contribution
+If you’d like to contribute to this project, create a pull request for the necessary changes.
+-->
+
 <!--
 ## 🙋 I’m looking to collaborate on ...
 
