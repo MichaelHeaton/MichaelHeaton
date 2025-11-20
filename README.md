@@ -2,22 +2,60 @@
 
 **Hi there!** 👋
 
-**I’m Michael, and I’m Experienced Infrastructure Architect and Site Reliability Engineer (SRE) Specializing in DevSecOps, Chaos Engineering, and Cloud Solutions.**
+I'm Michael, an experienced Infrastructure Architect and Site Reliability Engineer (SRE) specializing in DevSecOps, Chaos Engineering, and Cloud Solutions.
 
-## <img src="./images/working.png" alt="kubernetes" width="5%" height=""/> Currently working on ...
+---
 
-<img src="./images/homelab.jpg" alt="HomeLab" width="5%" height=""/> Rebuilding my homelab
+## 🔨 My Current Projects
 
-## <img src="./images/learning-icon.png" alt="Learning" width="5%" height=""/> Currently learning ...
+- Homelab rebuild
 
-<img src="./images/proxmox.png" alt="Proxmox" width="5%" height=""/> Proxmox
+## 📚 Learning
+
+- Terraform
+- Hashicorp Vault
+- Cursor AI
+
+---
 
 <!--
-<img src="./images/k8s.png" alt="kubernetes" width="5%" height=""/> K8s
--->
-# Repos
+## 📦 Featured Repositories
 
-- [Dotfiles](https://github.com/MichaelHeaton/dotfiles) - My personal configuration files on macOS
-- [Quick Reference Guide](https://github.com/MichaelHeaton/Quick-Reference-Guide) - Command Reference for various tools and technologies
-- [Homelab](https://github.com/MichaelHeaton/homelab-infra) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
-- [Scripts]() - Coming soon
+---
+-->
+
+## 🛠️ Tech Stack & Tools
+
+**Infrastructure as Code (IaC):** Terraform
+
+**Config Management:** Ansible
+
+**Cloud Platforms:** Proxmox, AWS
+
+**Languages:** Python, YAML
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelHeaton&show_icons=true&theme=radical)
+
+---
+
+<!--
+## 📫 Connect With Me
+
+- Add your social links here
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Twitter: [@YourHandle](https://twitter.com/yourhandle)
+- Email: your.email@example.com
+
+---
+ -->
+## 📖 How to Create Your Own GitHub Profile README
+
+Want to create a profile README like this? Check out GitHub's official guide:
+
+👉 [Setting up your profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
+
+---
